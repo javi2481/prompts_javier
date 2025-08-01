@@ -2,26 +2,26 @@
 
 ## 🧭 Índice
 
-- [Cursor Prompts / Agent Prompt v1.0.txt](#Cursor_Prompts_Agent Prompt v1_0_txt)
-- [Cursor Prompts / Agent Prompt v1.2.txt](#Cursor_Prompts_Agent Prompt v1_2_txt)
-- [Cursor Prompts / Agent Prompt.txt](#Cursor_Prompts_Agent Prompt_txt)
-- [Cursor Prompts / Agent Tools v1.0.json](#Cursor_Prompts_Agent Tools v1_0_json)
-- [Cursor Prompts / Chat Prompt.txt](#Cursor_Prompts_Chat Prompt_txt)
-- [Cursor Prompts / Memory Prompt.txt](#Cursor_Prompts_Memory Prompt_txt)
-- [Cursor Prompts / Memory Rating Prompt.txt](#Cursor_Prompts_Memory Rating Prompt_txt)
-- [Lovable / Agent Prompt.txt](#Lovable_Agent Prompt_txt)
-- [Lovable / Agent Tools.json](#Lovable_Agent Tools_json)
-- [Lovable / Prompt.txt](#Lovable_Prompt_txt)
-- [Manus Agent Tools & Prompt / Agent loop.txt](#Manus_Agent_Tools_&_Prompt_Agent loop_txt)
-- [Manus Agent Tools & Prompt / Modules.txt](#Manus_Agent_Tools_&_Prompt_Modules_txt)
-- [Manus Agent Tools & Prompt / Prompt.txt](#Manus_Agent_Tools_&_Prompt_Prompt_txt)
-- [Manus Agent Tools & Prompt / tools.json](#Manus_Agent_Tools_&_Prompt_tools_json)
-- [v0 Prompts and Tools / Prompt.txt](#v0_Prompts_and_Tools_Prompt_txt)
+- [Cursor Prompts / Agent Prompt v1.0.txt](#cursor-prompts-agent-prompt-v10txt)
+- [Cursor Prompts / Agent Prompt v1.2.txt](#cursor-prompts-agent-prompt-v12txt)
+- [Cursor Prompts / Agent Prompt.txt](#cursor-prompts-agent-prompttxt)
+- [Cursor Prompts / Agent Tools v1.0.json](#cursor-prompts-agent-tools-v10json)
+- [Cursor Prompts / Chat Prompt.txt](#cursor-prompts-chat-prompttxt)
+- [Cursor Prompts / Memory Prompt.txt](#cursor-prompts-memory-prompttxt)
+- [Cursor Prompts / Memory Rating Prompt.txt](#cursor-prompts-memory-rating-prompttxt)
+- [Lovable / Agent Prompt.txt](#lovable-agent-prompttxt)
+- [Lovable / Agent Tools.json](#lovable-agent-toolsjson)
+- [Lovable / Prompt.txt](#lovable-prompttxt)
+- [Manus Agent Tools & Prompt / Agent loop.txt](#manus-agent-tools-prompt-agent-looptxt)
+- [Manus Agent Tools & Prompt / Modules.txt](#manus-agent-tools-prompt-modulestxt)
+- [Manus Agent Tools & Prompt / Prompt.txt](#manus-agent-tools-prompt-prompttxt)
+- [Manus Agent Tools & Prompt / tools.json](#manus-agent-tools-prompt-toolsjson)
+- [v0 Prompts and Tools / Prompt.txt](#v0-prompts-and-tools-prompttxt)
 
 ---
 
-### 🔹 Cursor Prompts / `Agent Prompt v1.0.txt`
-<a name="Cursor_Prompts_Agent Prompt v1_0_txt"></a>
+### 🔹 Cursor Prompts / Agent Prompt v1.0.txt
+<a name="cursor-prompts-agent-prompt-v10txt"></a>
 
 ```txt
 You are an AI coding assistant, powered by Claude Sonnet 4. You operate in Cursor.
@@ -48,8 +48,8 @@ You have tools at your disposal to solve the coding task. Follow these rules reg
 
 ---
 
-### 🔹 Cursor Prompts / `Agent Prompt v1.2.txt`
-<a name="Cursor_Prompts_Agent Prompt v1_2_txt"></a>
+### 🔹 Cursor Prompts / Agent Prompt v1.2.txt
+<a name="cursor-prompts-agent-prompt-v12txt"></a>
 
 ```txt
 Knowledge cutoff: 2024-06
@@ -78,8 +78,8 @@ You have tools at your disposal to solve the coding task. Follow these rules reg
 
 ---
 
-### 🔹 Cursor Prompts / `Agent Prompt.txt`
-<a name="Cursor_Prompts_Agent Prompt_txt"></a>
+### 🔹 Cursor Prompts / Agent Prompt.txt
+<a name="cursor-prompts-agent-prompttxt"></a>
 
 ```txt
 You are a powerful agentic AI coding assistant, powered by Claude 3.7 Sonnet. You operate exclusively in Cursor, the world's best IDE. 
@@ -109,8 +109,8 @@ It is *EXTREMELY* important that your generated code can be run immediately by t
 
 ---
 
-### 🔹 Cursor Prompts / `Agent Tools v1.0.json`
-<a name="Cursor_Prompts_Agent Tools v1_0_json"></a>
+### 🔹 Cursor Prompts / Agent Tools v1.0.json
+<a name="cursor-prompts-agent-tools-v10json"></a>
 
 ```txt
 [
@@ -147,8 +147,8 @@ It is *EXTREMELY* important that your generated code can be run immediately by t
 
 ---
 
-### 🔹 Cursor Prompts / `Chat Prompt.txt`
-<a name="Cursor_Prompts_Chat Prompt_txt"></a>
+### 🔹 Cursor Prompts / Chat Prompt.txt
+<a name="cursor-prompts-chat-prompttxt"></a>
 
 ```txt
 You are a an AI coding assistant, powered by GPT-4o. You operate in Cursor
@@ -174,8 +174,8 @@ You have tools at your disposal to solve the coding task. Follow these rules reg
 
 ---
 
-### 🔹 Cursor Prompts / `Memory Prompt.txt`
-<a name="Cursor_Prompts_Memory Prompt_txt"></a>
+### 🔹 Cursor Prompts / Memory Prompt.txt
+<a name="cursor-prompts-memory-prompttxt"></a>
 
 ```txt
 You are an AI Assistant who is an extremely knowledgable software engineer, and you are judging whether or not certain memories are worth remembering.
@@ -215,8 +215,8 @@ navigate-conversation-history: User often needs to implement lo
 
 ---
 
-### 🔹 Cursor Prompts / `Memory Rating Prompt.txt`
-<a name="Cursor_Prompts_Memory Rating Prompt_txt"></a>
+### 🔹 Cursor Prompts / Memory Rating Prompt.txt
+<a name="cursor-prompts-memory-rating-prompttxt"></a>
 
 ```txt
 <goal>
@@ -259,8 +259,8 @@ css-class-fix: Need to add 'margin-top: 10
 
 ---
 
-### 🔹 Lovable / `Agent Prompt.txt`
-<a name="Lovable_Agent Prompt_txt"></a>
+### 🔹 Lovable / Agent Prompt.txt
+<a name="lovable-agent-prompttxt"></a>
 
 ```txt
 # Lovable AI Editor System Prompt
@@ -288,8 +288,8 @@ Current date: 2025-07-26
 
 ---
 
-### 🔹 Lovable / `Agent Tools.json`
-<a name="Lovable_Agent Tools_json"></a>
+### 🔹 Lovable / Agent Tools.json
+<a name="lovable-agent-toolsjson"></a>
 
 ```txt
 [
@@ -344,8 +344,8 @@ Current date: 2025-07-26
 
 ---
 
-### 🔹 Lovable / `Prompt.txt`
-<a name="Lovable_Prompt_txt"></a>
+### 🔹 Lovable / Prompt.txt
+<a name="lovable-prompttxt"></a>
 
 ```txt
 You are Lovable, an AI editor that creates and modifies web applications. You assist users by chatting with them and making changes to their code in real-time. You understand that users can see a live preview of their application in an iframe on the right side of the screen while you make code changes. Users can upload images to the project, and you can use them in your responses. You can access the console logs of the application in order to debug and use them to help you make changes.
@@ -385,8 +385,8 @@ You follow these key principles:
 
 ---
 
-### 🔹 Manus Agent Tools & Prompt / `Agent loop.txt`
-<a name="Manus_Agent_Tools_&_Prompt_Agent loop_txt"></a>
+### 🔹 Manus Agent Tools & Prompt / Agent loop.txt
+<a name="manus-agent-tools-prompt-agent-looptxt"></a>
 
 ```txt
 You are Manus, an AI agent created by the Manus team.
@@ -425,8 +425,8 @@ You operate in an agent loop, iteratively completing tasks through these steps:
 
 ---
 
-### 🔹 Manus Agent Tools & Prompt / `Modules.txt`
-<a name="Manus_Agent_Tools_&_Prompt_Modules_txt"></a>
+### 🔹 Manus Agent Tools & Prompt / Modules.txt
+<a name="manus-agent-tools-prompt-modulestxt"></a>
 
 ```txt
 You are Manus, an AI agent created by the Manus team.
@@ -473,8 +473,8 @@ You will be provided with a chronological event stream (may be truncated or part
 
 ---
 
-### 🔹 Manus Agent Tools & Prompt / `Prompt.txt`
-<a name="Manus_Agent_Tools_&_Prompt_Prompt_txt"></a>
+### 🔹 Manus Agent Tools & Prompt / Prompt.txt
+<a name="manus-agent-tools-prompt-prompttxt"></a>
 
 ```txt
 # Manus AI Assistant Capabilities
@@ -529,8 +529,8 @@ I am an AI assistant designed to help users with a wide range of tasks using var
 
 ---
 
-### 🔹 Manus Agent Tools & Prompt / `tools.json`
-<a name="Manus_Agent_Tools_&_Prompt_tools_json"></a>
+### 🔹 Manus Agent Tools & Prompt / tools.json
+<a name="manus-agent-tools-prompt-toolsjson"></a>
 
 ```txt
 [
@@ -597,8 +597,8 @@ I am an AI assistant designed to help users with a wide range of tasks using var
 
 ---
 
-### 🔹 v0 Prompts and Tools / `Prompt.txt`
-<a name="v0_Prompts_and_Tools_Prompt_txt"></a>
+### 🔹 v0 Prompts and Tools / Prompt.txt
+<a name="v0-prompts-and-tools-prompttxt"></a>
 
 ```txt
 You are v0, Vercel's AI-powered assistant.
@@ -633,3 +633,5 @@ v0 uses the Code Project block to group files and render React and full-stack Ne
     - Next.js cannot infer props for React Components, so v0 MUST provide default props. 
     - Environment variables can only be on used the server (e.g. in
 ```
+
+---
