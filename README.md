@@ -2,7 +2,6 @@
 
 ¡Hola! 👋 Aquí tienes un análisis detallado del contenido de tu directorio `prompts_javier`. Este repositorio es una fascinante colección de configuraciones y prompts para diversas herramientas de desarrollo y asistentes de IA.
 
-<<<<<<< HEAD
 ## 🗺️ **Índice de Herramientas**
 
 Navega directamente a la sección que te interese con estos links:
@@ -32,28 +31,6 @@ Navega directamente a la sección que te interese con estos links:
 ---
 
 ## Spawn
-=======
-- [Cursor Prompts / Agent Prompt v1.0.txt](#cursor-prompts-agent-prompt-v10txt)
-- [Cursor Prompts / Agent Prompt v1.2.txt](#cursor-prompts-agent-prompt-v12txt)
-- [Cursor Prompts / Agent Prompt.txt](#cursor-prompts-agent-prompttxt)
-- [Cursor Prompts / Agent Tools v1.0.json](#cursor-prompts-agent-tools-v10json)
-- [Cursor Prompts / Chat Prompt.txt](#cursor-prompts-chat-prompttxt)
-- [Cursor Prompts / Memory Prompt.txt](#cursor-prompts-memory-prompttxt)
-- [Cursor Prompts / Memory Rating Prompt.txt](#cursor-prompts-memory-rating-prompttxt)
-- [Lovable / Agent Prompt.txt](#lovable-agent-prompttxt)
-- [Lovable / Agent Tools.json](#lovable-agent-toolsjson)
-- [Lovable / Prompt.txt](#lovable-prompttxt)
-- [Manus Agent Tools & Prompt / Agent loop.txt](#manus-agent-tools-prompt-agent-looptxt)
-- [Manus Agent Tools & Prompt / Modules.txt](#manus-agent-tools-prompt-modulestxt)
-- [Manus Agent Tools & Prompt / Prompt.txt](#manus-agent-tools-prompt-prompttxt)
-- [Manus Agent Tools & Prompt / tools.json](#manus-agent-tools-prompt-toolsjson)
-- [v0 Prompts and Tools / Prompt.txt](#v0-prompts-and-tools-prompttxt)
-
----
-
-### 🔹 Cursor Prompts / Agent Prompt v1.0.txt
-<a name="cursor-prompts-agent-prompt-v10txt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 
@@ -61,12 +38,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Cluely
-=======
-### 🔹 Cursor Prompts / Agent Prompt v1.2.txt
-<a name="cursor-prompts-agent-prompt-v12txt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Default Prompt.txt`
 *   📄 `Enterprise Prompt.txt`
@@ -75,12 +47,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Cursor Prompts
-=======
-### 🔹 Cursor Prompts / Agent Prompt.txt
-<a name="cursor-prompts-agent-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Agent Prompt v1.0.txt`
 *   📄 `Agent Prompt v1.2.txt`
@@ -94,12 +61,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Devin AI
-=======
-### 🔹 Cursor Prompts / Agent Tools v1.0.json
-<a name="cursor-prompts-agent-tools-v10json"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 
@@ -107,12 +69,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## dia
-=======
-### 🔹 Cursor Prompts / Chat Prompt.txt
-<a name="cursor-prompts-chat-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 
@@ -120,12 +77,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Junie
-=======
-### 🔹 Cursor Prompts / Memory Prompt.txt
-<a name="cursor-prompts-memory-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 
@@ -133,12 +85,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Kiro
-=======
-### 🔹 Cursor Prompts / Memory Rating Prompt.txt
-<a name="cursor-prompts-memory-rating-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Mode_Clasifier_Prompt.txt`
 *   📄 `Spec_Prompt.txt`
@@ -148,12 +95,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Lovable
-=======
-### 🔹 Lovable / Agent Prompt.txt
-<a name="lovable-agent-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Agent Prompt.txt`
 *   📄 `Prompt.txt`
@@ -163,12 +105,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Manus Agent Tools & Prompt
-=======
-### 🔹 Lovable / Agent Tools.json
-<a name="lovable-agent-toolsjson"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Agent loop.txt`
 *   📄 `Modules.txt`
@@ -179,12 +116,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Open Source prompts
-=======
-### 🔹 Lovable / Prompt.txt
-<a name="lovable-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📁 `Bolt/`
     *   📄 `Prompt.txt`
@@ -201,12 +133,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Orchids.app
-=======
-### 🔹 Manus Agent Tools & Prompt / Agent loop.txt
-<a name="manus-agent-tools-prompt-agent-looptxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Decision-making prompt.txt`
 *   📄 `System Prompt.txt`
@@ -215,12 +142,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Perplexity
-=======
-### 🔹 Manus Agent Tools & Prompt / Modules.txt
-<a name="manus-agent-tools-prompt-modulestxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 
@@ -228,12 +150,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Replit
-=======
-### 🔹 Manus Agent Tools & Prompt / Prompt.txt
-<a name="manus-agent-tools-prompt-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 *   📄 `Tools.json`
@@ -242,12 +159,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Same.dev
-=======
-### 🔹 Manus Agent Tools & Prompt / tools.json
-<a name="manus-agent-tools-prompt-toolsjson"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Prompt.txt`
 *   📄 `Tools.json`
@@ -256,12 +168,7 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## Trae
-=======
-### 🔹 v0 Prompts and Tools / Prompt.txt
-<a name="v0-prompts-and-tools-prompttxt"></a>
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
 
 *   📄 `Chat Prompt.txt`
 
@@ -277,7 +184,6 @@ Navega directamente a la sección que te interese con estos links:
 
 ---
 
-<<<<<<< HEAD
 ## VSCode Agent
 
 *   📄 `Prompt.txt`
@@ -321,11 +227,3 @@ Navega directamente a la sección que te interese con estos links:
 *   📄 `prompt.txt`
 
 [⬆️ Volver al Índice](#️-índice-de-herramientas)
-=======
-  <working_in_next_lite>
-    - Next.js cannot infer props for React Components, so v0 MUST provide default props. 
-    - Environment variables can only be on used the server (e.g. in
-```
-
----
->>>>>>> 6ef419129c3ff54ac69ab72af44d0917208b675d
